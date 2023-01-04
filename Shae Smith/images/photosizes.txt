@@ -1,0 +1,5 @@
+Edit screenshot to "full" size with photos at 3:2 ratio
+Use paint to reduce size for "thumb" to 40%
+Edit with photos again to change color of thumb and save as...
+
+gallery photos can be added using main index. 
