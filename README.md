@@ -1,7 +1,7 @@
 <h3> My <em>latest</em> portfolio!</h3>
 <h3> Hi, I'm Shae!</h3>
 <p>
-    <img src="https://github.com/callmeShae/Personal_Files/blob/main/~me/current%20portfolio/intro.jpg" height="360px" width="720px"/></a>
+    <img src="https://github.com/callmeShae/Personal_Files/blob/main/~me/current%20portfolio/intro.jpg" height="480px" width="720px"/></a>
 </p>
 
 <h3>My backgroud: </h3>
