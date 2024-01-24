@@ -10,18 +10,21 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Virginia_Tech_Hokies_logo.svg" height="45" width="90"/></a>
 
 
+
 <p>    •	U.S. Navy Veteran (2004-2008) 
 <img src="https://github.com/callmeShae/Personal_Files/blob/main/Navy%20Veteran/us-navy-engineman-decal-5-removebg-preview.png" height="50" width="50"/></a>
 
 
+
+
 <h3>My Projects: </h3>
 <p>    •  Web and mobile apps
-<p>    •  My art https://shae1223.wixsite.com/shae-smith-artist 
+<p>    •  My<a href="https://shae1223.wixsite.com/shae-smith-artist "> art</a>
 
 
 <h3>Get to know me better: </h3>
-<p>    •  going to my Website https://callmeshae.github.io/intro.html
-<p>    •  visiting my LinkedIn linkedin.com/in/call-me-shae
+<p>    •  going to my <a href="https://callmeshae.github.io/intro.html">Website </a>
+<p>    •  visiting my <a href="linkedin.com/in/call-me-shae">LinkedIn </a>
 
 
 
