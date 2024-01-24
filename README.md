@@ -4,7 +4,4 @@
 
 ![image](https://github.com/thereisnoShannon/thereisnoShannon.github.io/assets/75339573/86db97fc-ba2c-401c-a0d5-178160f467eb)
 
-<h3></h3>
-
-<p>ShaeSmith.github.io</p>
 
