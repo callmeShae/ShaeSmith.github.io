@@ -6,5 +6,5 @@
 
 <h3></h3>
 
-<p>#callmeShae.github.io</p>
+<p>ShaeSmith.github.io</p>
 
