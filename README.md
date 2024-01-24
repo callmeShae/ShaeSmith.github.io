@@ -7,7 +7,7 @@
 <h3>My backgroud: </h3>
 
 <p>    •	Virginia Tech graduate of Information Technology (December 2023) 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Virginia_Tech_Hokies_logo.svg" height="48" width="96"/></a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Virginia_Tech_Hokies_logo.svg" height="45" width="90"/></a>
 
 
 <p>    •	U.S. Navy Veteran (2004-2008) 
