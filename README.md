@@ -11,7 +11,7 @@
 
 
 <p>    •	U.S. Navy Veteran (2004-2008) 
-<img src="https://github.com/callmeShae/Personal_Files/blob/main/Navy%20Veteran/us-navy-engineman-decal-5-removebg-preview.png" height="96" width="96"/></a>
+<img src="https://github.com/callmeShae/Personal_Files/blob/main/Navy%20Veteran/us-navy-engineman-decal-5-removebg-preview.png" height="50" width="50"/></a>
 
 
 <h3>My Projects: </h3>
