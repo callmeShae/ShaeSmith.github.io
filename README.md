@@ -23,7 +23,7 @@
 <br>
 <br>
 <h3>Get to know me better by... </h3>
-<p>    •  Going to my <a href="https://callmeshae.github.io/intro.html">Website </a>
+<p>    •  Going to my <a href="https://callmeshae.github.io/">Website </a>
 <p>    •  Visiting my <a href="linkedin.com/in/call-me-shae">LinkedIn </a>
 
 
