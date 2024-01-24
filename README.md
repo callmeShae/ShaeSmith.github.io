@@ -16,12 +16,13 @@
 
 <h3>My Projects: </h3>
 <p>    •  Web and mobile apps
-<p>    •  My art 
+<p>    •  My art https://shae1223.wixsite.com/shae-smith-artist 
 
 
 <h3>Get to know me better: </h3>
-<p>    •  going to my Website
-<p>    •  visiting my LinkedIn
+<p>    •  going to my Website https://callmeshae.github.io/intro.html
+<p>    •  visiting my LinkedIn linkedin.com/in/call-me-shae
+
 
 
 
